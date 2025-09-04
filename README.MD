@@ -18,3 +18,4 @@ Use the Python Imaging Library to do the following to a batch of images:
 - .jpeg format
 - Image resolution 128x128 pixel
 - Should be straight
+
